@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.venv
+space_new.txt
+space_uniq_password.csv
