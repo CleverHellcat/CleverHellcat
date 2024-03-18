@@ -10,3 +10,5 @@ for elem in f_in.readlines():
     if counter != 10:
         print('{' + pla + '}:{' + spname + '}')
         counter += 1
+
+# print(slovar)
